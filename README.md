@@ -1,8 +1,8 @@
-# Optimal-Portfolio-with-Python
+# :chart_with_upwards_trend: Constructing Optimal Portfolio 
 
-### Objectives
-- Find possible weights to construct optimal porfolio regarding with expected return and expected volatility.
+## :dart: Objectives
+- Find possible weights to construct optimal porfolio with regard to expected return and expected volatility.
 
-### Dataset
+## :memo: Dataset
 - weekly returns(2015-2019) of 20 companies(kospi200)
 
